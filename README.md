@@ -54,11 +54,11 @@ Utilizamos o formato `0.0.0` para controle de versão:
 
 * **Ryan B.** - *Desenvolvimento Inicial* - [euoryan ↗](https://github.com/euoryan)
 
-Veja o projeto e contribua em [Hub Ryan ↗](https://github.com/euoryan/Hub-Ryan).
+Veja o projeto e contribua em [Hub Ryan ↗](https://github.com/euoryan/Hub-Ryan-pub).
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [Licença MIT ↗](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE.md ↗](https://github.com/euoryan/Hub-Ryan/blob/main/LICENSE) para detalhes.
+Este projeto está licenciado sob a [Licença MIT ↗](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE.md ↗](https://github.com/euoryan/Hub-Ryan-pub/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Agradecimentos
 
